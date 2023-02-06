@@ -1,1 +1,1 @@
-This is a test note to check if ObsidianGit integration is functioning properly with my public repo.
+This is a test note to check if ObsidianGit integration is functioning properly with my public repo. SUCCESS
