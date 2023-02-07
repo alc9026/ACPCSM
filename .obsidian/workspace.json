@@ -11,15 +11,24 @@
             "id": "4063d673f4fc9bf0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff9489dca4762ca8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "TestFolder4/TestNote5.md",
+                "file": "Research Files/Computer Professionals/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestFolder4/TestNote5.md",
+                "file": "Research Files/Computer Professionals/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestFolder4/TestNote5.md",
+                "file": "Research Files/Computer Professionals/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestFolder4/TestNote5.md"
+                "file": "Research Files/Computer Professionals/README.md"
               }
             }
           },
