@@ -10,4 +10,3 @@ Repository Representing progress in the independent study course of Alternative 
 - #TODO Respond to Blizzard email to ping again for a response, she may have missed the email
 - #TODO Investigate if there is a way to integrate with personal RIT obsidian notes
 	- Involves working with 'vaults' which makes things difficult
-- 
