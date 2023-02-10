@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Files/Computer Professionals/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Files/Computer Professionals/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Files/Computer Professionals/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Files/Computer Professionals/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "6a2b12b87cc1bcd8",
   "lastOpenFiles": [
-    "Research Files/Computer Professionals/Computer Professionals Abstract.md",
     "Research Files/Computer Professionals/README.md",
+    "Research Files/Computer Professionals/Computer Professionals Abstract.md",
     "README.md",
     "TestFolder4/TestNote5.md"
   ]

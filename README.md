@@ -7,4 +7,4 @@ Repository Representing progress in the independent study course of Alternative 
 		- The new due date for this assignment/delivarable is Thursday, 2/17
 	- In general, may involve reformatting the schedule table to ensure it is readable and presentable in GitHub repository
 - #TODO Respond to Blizzard email to ping again for a response, she may have missed the email
-- #TODO 
+- #TODO foo-bar
