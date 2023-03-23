@@ -3,7 +3,7 @@ This note will be a general outline for my paper discussing how communication an
 
 ## Outline
 - **Introduction**
-	- Hook
+	- Opening statement / Hook
 	- Note on how short the history of computing is and the fact than many players are still around or recently deceased
 	- *Non-exaustive statement* 
 	- General communication and societal acceptance introduction
@@ -13,10 +13,12 @@ This note will be a general outline for my paper discussing how communication an
 	- Character / Historical Introduction
 		- (multiple points)
 	- Mathematician / Algorithms
+	- *Needs more clarification / develoment* 
 - **Grace Hopper**
 	- Character / Historical Introduction 
 		- (multiple points)
 	- Compiler
+	- *Needs more clarification / develoment* 
 - **Women In Computing**
 	- Specific examples of the above characters and other case studies where woman's ideas were thrown aside
 	- How absolutely revolutionary their ideas were and how they impacted the course of computer science
@@ -57,7 +59,7 @@ This note will be a general outline for my paper discussing how communication an
 	- How was Bell Labs set up?
 	- How was this set up different than other workplaces of the time?
 	- How did this impact how work was conducted and the output of the group?
-- **Moore Book Para**
+- **Moore Book Workplace Para**
 	- *After finishing Moore book, choose a company he was involved in*
 		- Choose either a preferrable or doomed company
 	- Historical information
@@ -72,3 +74,18 @@ This note will be a general outline for my paper discussing how communication an
 		- Are these similar or different from Moore's time?
 	- Who decides the set ups of these workplaces?
 	- Are organizations involved in regulating these factors that clearly impact productivity?
+		- Communication
+		- Social acceptance
+- **Changes Made and to Make**
+	- What policies or practices has the world of computer professionals adopted to make these beneficial goals more reasonable?
+		- Or which have made it worse?
+	- Clear issues left unchanged
+	- What changes can be made now to rectify past issues and prepare the burgeoning field of computer science to remain fruitful?
+		- And fair to everyone involved?
+- **Conclusion**
+	- Thesis
+	- Non-exhaustive reminder
+	- Recap professionals mentioned
+	- Recap changes made
+	- Recap what can be done next
+	- Closing statement
