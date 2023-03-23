@@ -7,11 +7,11 @@ This note will be a general outline for my paper discussing how communication an
 - Note on how short the history of computing is and the fact than many players are still around or recently deceased
 - *Non-exaustive statement* 
 - General communication and societal acceptance introduction
-- Thesis
+- The tumultuous history of computer science is a short one filled with many people and organizations 
 ### **Ada Lovelace**
 - *RIT Article*
 - Character / Historical Introduction
-		- (multiple points)
+	- (multiple points)
 - Mathematician / Algorithms
 - *Needs more clarification / develoment* 
 ### **Grace Hopper**
@@ -58,6 +58,7 @@ This note will be a general outline for my paper discussing how communication an
 	- Why?
 - How was Bell Labs set up?
 - How was this set up different than other workplaces of the time?
+	- Increasing communication and interdependency and interdisciplinary work
 - How did this impact how work was conducted and the output of the group?
 ### **Moore Book Workplace Para**
 - *After finishing Moore book, choose a company he was involved in*
@@ -76,6 +77,8 @@ This note will be a general outline for my paper discussing how communication an
 - Are organizations involved in regulating these factors that clearly impact productivity?
 	- Communication
 	- Social acceptance
+- ACM
+- 
 ### **Changes Made and to Make**
 - What policies or practices has the world of computer professionals adopted to make these beneficial goals more reasonable?
 	- Or which have made it worse?
