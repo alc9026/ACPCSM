@@ -84,7 +84,7 @@ This note will be a general outline for my paper discussing how communication an
 	- And fair to everyone involved?
 ### **Conclusion**
 - Thesis
-- Non-exhaustive reminder
+- Non-exhaustive reminder / note ?
 - Recap professionals mentioned
 - Recap changes made
 - Recap what can be done next
