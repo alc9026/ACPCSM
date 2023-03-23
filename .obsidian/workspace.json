@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a33ea7bd3ce9c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5369c8af4b4ce85d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper Documents/Drafts/Course Paper Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Paper Documents/Drafts/Course Paper Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Paper Documents/Drafts/Course Paper Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Paper Documents/Drafts/Course Paper Outline.md"
               }
             }
           },
@@ -166,11 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9489dca4762ca8",
+  "active": "5369c8af4b4ce85d",
   "lastOpenFiles": [
-    "Research Files/Computer Professionals/README.md",
-    "Research Files/Computer Professionals/Computer Professionals Abstract.md",
+    "Research Documents/Computer Professionals/README.md",
+    "Paper Documents/Drafts/Course Paper Outline.md",
     "README.md",
+    "Research Documents/Computer Professionals/Computer Professionals Abstract.md",
+    "Paper Documents/Drafts",
+    "Report Documents",
+    "Paper Documents",
     "TestFolder4/TestNote5.md"
   ]
 }
