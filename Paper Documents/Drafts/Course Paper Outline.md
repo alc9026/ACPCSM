@@ -92,3 +92,5 @@ This note will be a general outline for my paper discussing how communication an
 - Recap changes made
 - Recap what can be done next
 - Closing statement
+
+reformat the above note into a better markdown outline format
